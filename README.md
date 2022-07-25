@@ -1,2 +1,2 @@
 # Hirst Spot Painting
-Turtle and Graphical User Interface (GUI)
+Turtle and the Graphical User Interface (GUI)
